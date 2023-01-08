@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.6d2fb1f7.css",
-    "main.js": "/static/js/main.df0b8da0.js",
+    "main.js": "/static/js/main.ad5ef6c1.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/sarfraj3.jpg": "/static/media/sarfraj3.e8c7669e8785773aab62.jpg",
+    "static/media/Sarfraj_Raza_Resume.pdf": "/static/media/Sarfraj_Raza_Resume.cbd71dbf2a4ca91edbce.pdf",
     "index.html": "/index.html",
     "main.6d2fb1f7.css.map": "/static/css/main.6d2fb1f7.css.map",
-    "main.df0b8da0.js.map": "/static/js/main.df0b8da0.js.map",
+    "main.ad5ef6c1.js.map": "/static/js/main.ad5ef6c1.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d2fb1f7.css",
-    "static/js/main.df0b8da0.js"
+    "static/js/main.ad5ef6c1.js"
   ]
 }
