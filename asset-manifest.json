@@ -1,17 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.df2b08e5.css",
-    "main.js": "/static/js/main.85648fa8.js",
+    "main.css": "/static/css/main.0f15f64c.css",
+    "main.js": "/static/js/main.0174d278.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/node js.png": "/static/media/node js.3557879dfdc845aa406c.png",
+    "static/media/chakra.png": "/static/media/chakra.eaa64588a95eda3bebcd.png",
+    "static/media/react.png": "/static/media/react.c10d85fb8a92d911f856.png",
     "static/media/sarfraj3.jpg": "/static/media/sarfraj3.e8c7669e8785773aab62.jpg",
+    "static/media/js.png": "/static/media/js.22108d12ddb418c2b094.png",
+    "static/media/redux.png": "/static/media/redux.6f21bce9793c508c2118.png",
+    "static/media/css.png": "/static/media/css.a80854c3444b303880f4.png",
+    "static/media/html.png": "/static/media/html.b70112d81c6c9d395925.png",
     "static/media/Sarfraj_Raza_Resume.pdf": "/static/media/Sarfraj_Raza_Resume.cbd71dbf2a4ca91edbce.pdf",
+    "static/media/mongo.png": "/static/media/mongo.906d7c71faa3b36363e6.png",
+    "static/media/next js.png": "/static/media/next js.5138594b6745110ec7be.png",
+    "static/media/ts.png": "/static/media/ts.b202c4e953e966aadd70.png",
     "index.html": "/index.html",
-    "main.df2b08e5.css.map": "/static/css/main.df2b08e5.css.map",
-    "main.85648fa8.js.map": "/static/js/main.85648fa8.js.map",
+    "main.0f15f64c.css.map": "/static/css/main.0f15f64c.css.map",
+    "main.0174d278.js.map": "/static/js/main.0174d278.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df2b08e5.css",
-    "static/js/main.85648fa8.js"
+    "static/css/main.0f15f64c.css",
+    "static/js/main.0174d278.js"
   ]
 }
