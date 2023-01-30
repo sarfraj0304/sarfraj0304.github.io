@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.99e68cb1.css",
-    "main.js": "/static/js/main.e4750e59.js",
+    "main.js": "/static/js/main.44cf61af.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/sparkle.png": "/static/media/sparkle.642fde9b567fcd8d0c6f.png",
     "static/media/Energizer.PNG": "/static/media/Energizer.f8f76622c69deddf3930.PNG",
@@ -14,17 +14,16 @@
     "static/media/redux.png": "/static/media/redux.6f21bce9793c508c2118.png",
     "static/media/css.png": "/static/media/css.a80854c3444b303880f4.png",
     "static/media/html.png": "/static/media/html.b70112d81c6c9d395925.png",
-    "static/media/Sarfraj_Raza_Resume.pdf": "/static/media/Sarfraj_Raza_Resume.cbd71dbf2a4ca91edbce.pdf",
     "static/media/mongo.png": "/static/media/mongo.906d7c71faa3b36363e6.png",
     "static/media/next js.png": "/static/media/next js.5138594b6745110ec7be.png",
     "static/media/ts.png": "/static/media/ts.b202c4e953e966aadd70.png",
     "index.html": "/index.html",
     "main.99e68cb1.css.map": "/static/css/main.99e68cb1.css.map",
-    "main.e4750e59.js.map": "/static/js/main.e4750e59.js.map",
+    "main.44cf61af.js.map": "/static/js/main.44cf61af.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99e68cb1.css",
-    "static/js/main.e4750e59.js"
+    "static/js/main.44cf61af.js"
   ]
 }
