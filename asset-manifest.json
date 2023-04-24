@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.99e68cb1.css",
-    "main.js": "/static/js/main.896ced3a.js",
+    "main.js": "/static/js/main.24866597.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/sparkle.png": "/static/media/sparkle.642fde9b567fcd8d0c6f.png",
     "static/media/Energizer.PNG": "/static/media/Energizer.f8f76622c69deddf3930.PNG",
     "static/media/YoutubeHome.PNG": "/static/media/YoutubeHome.f5b6ba1b09fc59f942c1.PNG",
     "static/media/shoeland.png": "/static/media/shoeland.f4101c816283023461f0.png",
+    "static/media/WildTimes.png": "/static/media/WildTimes.f96e4cbae95b57ca8844.png",
     "static/media/Nutribest.png": "/static/media/Nutribest.5381b3f66b556ad46d0e.png",
     "static/media/node js.png": "/static/media/node js.3557879dfdc845aa406c.png",
     "static/media/chakra.png": "/static/media/chakra.eaa64588a95eda3bebcd.png",
@@ -27,11 +28,11 @@
     "static/media/ts.png": "/static/media/ts.b202c4e953e966aadd70.png",
     "index.html": "/index.html",
     "main.99e68cb1.css.map": "/static/css/main.99e68cb1.css.map",
-    "main.896ced3a.js.map": "/static/js/main.896ced3a.js.map",
+    "main.24866597.js.map": "/static/js/main.24866597.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99e68cb1.css",
-    "static/js/main.896ced3a.js"
+    "static/js/main.24866597.js"
   ]
 }
